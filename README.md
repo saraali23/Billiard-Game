@@ -1,2 +1,2 @@
 # Biliardo_Game
-Biliardo_Game
+Must be run using LibGDX
